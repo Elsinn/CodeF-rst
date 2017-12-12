@@ -1,0 +1,15 @@
+c:\users\wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\bin\Debug\CodeFirstBlog.exe.config
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\bin\Debug\CodeFirstBlog.exe
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\bin\Debug\CodeFirstBlog.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\obj\Debug\CodeFirstBlog.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\obj\Debug\CodeFirstBlog.Form1.resources
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\obj\Debug\CodeFirstBlog.Properties.Resources.resources
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\obj\Debug\CodeFirstBlog.csproj.GenerateResource.Cache
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\obj\Debug\CodeFirstBlog.exe
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\obj\Debug\CodeFirstBlog.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\obj\Debug\CodeFirstBlog.Migrations.InitialCreate.resources
+C:\Users\Wissen\documents\visual studio 2015\Projects\CodeFirstBlog\CodeFirstBlog\obj\Debug\CodeFirstBlog.Migrations.a1.resources
